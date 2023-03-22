@@ -6,7 +6,7 @@
 
 // build and run
 // g++ vector_fill_fixed_vs_flex.cpp -o vector_fill_fixed_vs_flex &&
-// ./vector_fill_fixed_vs_flex
+// ./build/vector_fill_fixed_vs_flex
 
 void fill_fixed_vector() {
   std::vector<int> vec_fixed(1e5);
